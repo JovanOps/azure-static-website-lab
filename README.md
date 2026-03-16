@@ -25,16 +25,8 @@ This lab illustrates a simple and cost-efficient way to host static content dire
 The static website is hosted inside Azure Storage using the **$web container**.
 
 ```
-User
- |
-Internet
- |
-Azure Storage Account
- |
-Static Website ($web container)
- |
-index.html
-```
+<img width="1408" height="768" alt="architecture-diagram" src="https://github.com/user-attachments/assets/29c9c789-a257-43dc-b638-9667e3c12af1" />
+
 
 ---
 
@@ -101,9 +93,6 @@ The deployed page displays a simple static HTML page hosted entirely through Azu
 
 ![Static Website](screenshots/static-website-enabled.png)
 
-### Web Container
-
-![Web Container](screenshots/web-container.png)
 
 ### Website Running
 
