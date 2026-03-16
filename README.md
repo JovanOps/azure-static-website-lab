@@ -26,7 +26,7 @@ The static website is hosted inside Azure Storage using the **$web container**.
 
 ```
 <img width="1408" height="768" alt="architecture-diagram" src="https://github.com/user-attachments/assets/29c9c789-a257-43dc-b638-9667e3c12af1" />
-
+---
 
 ---
 
